@@ -1,1 +1,3 @@
-# Odin-JavaScript-Project-Restaurant-Page2
+# JavaScript Project: Restaurant Page
+
+### [Guideline](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
